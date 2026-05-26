@@ -1,4 +1,5 @@
 Featured_Projects
+
 Overview
 This repository is a curated collection of my highlighted projects across software development, 3D modeling, digital logic, and technical design. Each project folder includes its own README with details, screenshots, and explanations of the work.
 
